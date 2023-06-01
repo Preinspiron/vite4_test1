@@ -15,4 +15,5 @@ export default defineConfig({
     setupFiles: 'src/setupTests.ts',
     clearMocks: true,
   },
+  base:'/https://preinspiron.github.io/vite4_test1/',
 });
